@@ -4,6 +4,16 @@
 ## Titulo 2
 ### Titulo 3
 
+*italico* ou _italico_
+
+**negrito** ou __negrito__
+
+___negrito e italico ___
+
+- Lista 1
+- Lista 2
+    -sublsita
+
 <!--
 **viniciusmjvm/viniciusmjvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
