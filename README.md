@@ -10,9 +10,9 @@
 
 ___negrito e italico ___
 
-- Lista 1
-- Lista 2
-    -sublsita
+1. Lista 1
+2. Lista 2
+    1. sublsita
 
 <!--
 **viniciusmjvm/viniciusmjvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
